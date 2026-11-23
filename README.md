@@ -19,8 +19,12 @@ BookBeam's Niche Finder shows 15 books per page and has no export button. This s
 ## Install
 
 1. Install the [Tampermonkey](https://www.tampermonkey.net/) browser extension.
-2. In Tampermonkey, choose **Create a new script**, delete the template, paste the contents of [`bookbeam-niche-finder-csv.user.js`](bookbeam-niche-finder-csv.user.js) and save.
+2. **[Click here to install the script](https://raw.githubusercontent.com/angelo18181818/bookbeam-niche-finder-csv-export/main/bookbeam-niche-finder-csv.user.js)**. Tampermonkey opens an install page: click **Install**.
 3. Reload `app.bookbeam.io`.
+
+Tampermonkey checks this repository for updates automatically.
+
+Manual alternative: in Tampermonkey choose **Create a new script**, delete the template, paste the contents of [`bookbeam-niche-finder-csv.user.js`](bookbeam-niche-finder-csv.user.js) and save.
 
 ## Usage
 

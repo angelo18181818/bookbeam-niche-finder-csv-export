@@ -3,6 +3,11 @@
 // @namespace    bookbeam-niche-finder-csv-export
 // @version      1.0.0
 // @description  Export BookBeam Niche Finder results to CSV (same columns as the table), in search order.
+// @homepageURL  https://github.com/angelo18181818/bookbeam-niche-finder-csv-export
+// @supportURL   https://github.com/angelo18181818/bookbeam-niche-finder-csv-export/issues
+// @downloadURL  https://raw.githubusercontent.com/angelo18181818/bookbeam-niche-finder-csv-export/main/bookbeam-niche-finder-csv.user.js
+// @updateURL    https://raw.githubusercontent.com/angelo18181818/bookbeam-niche-finder-csv-export/main/bookbeam-niche-finder-csv.user.js
+// @license      MIT
 // @match        https://app.bookbeam.io/*
 // @run-at       document-start
 // @grant        none
